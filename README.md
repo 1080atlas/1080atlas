@@ -8,16 +8,12 @@ I am a recently graduated teacher with an interest for technology and a dedicati
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|
-|
-|
-| 
-| 
-| 
+ 
+ 
 
 ## Tools
 
